@@ -1,4 +1,4 @@
 theFriar
 ========
 
-The official Cryptocurency of Heave, the only coin St. Peter accepts at his pearly gates.
+The official Cryptocurency of Heaven, the only coin St. Peter accepts at his pearly gates.
