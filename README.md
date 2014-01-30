@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-SmallChange (SMC) - a 'faster' version of Litecoin which also uses scrypt
+Friar (SMC) - a 'faster' version of Litecoin which also uses scrypt
 as a proof of work scheme and is intended for microtransactions.
  - 15 seconds block targets: beat that MinCoin! ;)
  - 42 007 680 total coins
@@ -19,7 +19,7 @@ So actually, this 'new' coin exists for the following reasons:
      for genesis block generation look at main.cpp)
  - allows me to experiment with coin parameters (in a private network)
 
-Finally, I only tested the command line server/tool 'smallchange' for the
+Finally, I only tested the command line server/tool 'friar' for the
 first 30 blocks. Credits go to the original authors/communities that
 created Bitcoin and Litecoin.
 
